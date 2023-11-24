@@ -1,0 +1,24 @@
+vg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+    <style>
+        text {
+            font-family: Arial, sans-serif;
+        }
+
+        .color-info {
+            margin-bottom: 20px;
+        }
+    </style>
+
+    <g class="color-info" transform="translate(20, 30)">
+        <text x="0" y="0" style="fill: #808080;" font-size="20">MediumGray</text>
+        <text x="0" y="25" style="fill: #808080;" font-size="16">Código CSS: #808080</text>
+    </g>
+
+    <g class="color-info" transform="translate(20, 80)">
+        <text x="0" y="0" style="fill: #808000;" font-size="20">OliveGreen</text>
+        <text x="0" y="25" style="fill: #808000;" font-size="16">Código CSS: #808000</text>
+    </g>
+
+    <!-- Adicione mais grupos de texto para as outras cores aqui -->
+
+</svg>
